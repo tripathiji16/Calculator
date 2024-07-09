@@ -14,7 +14,7 @@ This project is a basic calculator built using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/tripathiji16/Calculator/tree/main
    ```
 
 2. Open the `index_calc.html` file in a web browser.
