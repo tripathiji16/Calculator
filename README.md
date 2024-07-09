@@ -1,5 +1,3 @@
-## README.md
-
 **Simple Calculator**
 
 This project is a basic calculator built using HTML, CSS, and JavaScript.
